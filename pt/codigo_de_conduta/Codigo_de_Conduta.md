@@ -1,6 +1,6 @@
 # Código de Conduta
 
-O nosso Código de Conduta aplica-se a todos os Voluntários ou representativos de Beneficiários em todos os nossos Projectos, a todos os nossos Beneficiários, a todos os nossos eventos públicos e em todos os nossos canais/plataformas de comunicação oficiais. Embora a maior partes destas coisas seja óbvia, queremos assegurar que toda a gente que se junta à Comunidade DSSG Portugal, de uma forma ou de outra, se sinta bem-recebido. Queremos também promover um ambiente seguro e produtivo para todos os membros da nossa Comunidade. 
+O nosso Código de Conduta aplica-se a todos os Voluntários ou representantes de Beneficiários em todos os nossos Projectos, a todos os nossos Beneficiários, a todos os nossos eventos públicos e em todos os nossos canais/plataformas de comunicação oficiais. Embora a maior partes destas coisas seja óbvia, queremos assegurar que toda a gente que se junta à Comunidade DSSG Portugal, de uma forma ou de outra, se sinta bem-recebido. Queremos também promover um ambiente seguro e produtivo para todos os membros da nossa Comunidade. 
 
 A nossa política anti-assédio (abaixo) lista todos os comportamentos para com os quais temos tolerância zero. Se sentes que tu ou alguém no seio da Comunidade estão a ser assediados ou tratados de forma injusta, ou caso tenhas alguma reserva acerca desta política, por favor entra em contacto um dos nossos Pontos de Contacto de referência: 
 + Hugo Esteves, via mensagem privada no Slack ou via email para hugo@dssg.pt.
