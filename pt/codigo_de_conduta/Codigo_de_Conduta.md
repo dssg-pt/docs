@@ -16,4 +16,4 @@ Caso sejam detectadas ou reportadas violações destas normas por parte de membr
 
 Se achas que alguém violou esta política, por favor aborda directamente essa pessoa ou os Pontos de Contacto DSSG acerca destas questões (mencionados acima). Se achas que foste injustamente acusado de violar este Código de Conduta, deverás contactar a _Lead Team_ DSSG PT (através dos mesmos Pontos de Contacto) com uma descrição sumária do ocorrido - todas as ocorrências serão consideradas. 
 
-**Aviso**: Documento adaptado do [Código de Conduta](https://github.com/dssg/dssg-manual/blob/master/manual.md#code-of-conduct) da nossa _alma matter_, Data Science for Social Good Fellowship.
+**Nota**: Documento adaptado do [Código de Conduta](https://github.com/dssg/dssg-manual/blob/master/manual.md#code-of-conduct) da nossa _alma matter_, Data Science for Social Good Fellowship.
